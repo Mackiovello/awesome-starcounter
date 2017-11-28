@@ -36,4 +36,5 @@
 
 - [Juicy](https://github.com/Juicy) - custom elements authored by Starcounter team
 - [Vaadin](https://vaadin.com/elements) - custom elements library for building web apps
+- [Polymer `dom-bind`](https://www.polymer-project.org/1.0/docs/devguide/templates) - docs about Polymer's auto-binding template
 - [WebComponents.org](https://www.webcomponents.org/) - open directory of custom elements
