@@ -30,7 +30,7 @@
 - [Starcounter DevTools bookmarklet](https://starcounter.io/starcounter-devtools-extension/) - blog showing how to load the extension in Safari and Edge
 - [Starcounter DevTools extension for Chrome](https://chrome.google.com/webstore/detail/starcounter-devtools/mpchkilmmalfopikamgellgdgoidhmnh)
 - [Starcounter DevTools extension for Firefox](https://addons.mozilla.org/en-US/firefox/addon/starcounter-devtools/)
-- [Translate Shadow DOM](https://tomalec.github.io/Translate-ShadowDOM/) - translates `<content>` tags to `<slot>` and vice versa (req. Chrome)
+- [Translate Shadow DOM](https://tomalec.github.io/Translate-ShadowDOM/) - translates Shadow DOM HTML, CSS and JS from V0 to V1 and vice versa (req. Chrome)
 
 ## Web Components
 
