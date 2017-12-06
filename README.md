@@ -1,6 +1,6 @@
 # Awesome Starcounter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<a href="https://www.starcounter.io"><img src="https://pbs.twimg.com/profile_images/542321946122149888/wLf3o9jy.png" height="208" width="208" align="right"></a>
+<a href="https://www.starcounter.io"><img src="https://cdn.rawgit.com/starcounter/awesome-starcounter/master/images/starcounter-logo.png" height="151" width="208" align="right"></a>
 
 > A curated list of _awesome_ resources, libraries and apps related to Starcounter
 
