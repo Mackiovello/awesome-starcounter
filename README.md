@@ -43,4 +43,4 @@
 - [Polymer `dom-bind`](https://www.polymer-project.org/1.0/docs/devguide/templates) - Docs about Polymer's auto-binding template
 - [WebComponents.org](https://www.webcomponents.org/) - Open directory of custom elements
 
-[Starcounter Official]: https://cdn.rawgit.com/starcounter/awesome-starcounter/master/images/starcounter-official.svg
+[Starcounter Official]: https://cdn.rawgit.com/starcounter/awesome-starcounter/master/images/starcounter-official-small.svg
