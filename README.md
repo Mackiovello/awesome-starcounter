@@ -1,8 +1,9 @@
 # Awesome Starcounter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <a href="https://www.starcounter.io"><img src="https://pbs.twimg.com/profile_images/542321946122149888/wLf3o9jy.png" height="208" width="208"></a>
-> A curated list of Starcounter resources, libraries and apps 
->
-> Please contribute to this page by making a Pull Request
+> A curated list of resources, libraries and apps related to [Starcounter](http://starcounter.io/)
+> software platform.
+> 
+> Please contribute to this page by making a Pull Request.
 
 ## Contents
 
