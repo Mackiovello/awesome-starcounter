@@ -1,4 +1,4 @@
-# Awesome Starcounter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Starcounter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <a href="https://www.starcounter.io"><img src="https://pbs.twimg.com/profile_images/542321946122149888/wLf3o9jy.png" height="208" width="208"></a>
 > A curated list of Starcounter resources, libraries and apps 
 >
