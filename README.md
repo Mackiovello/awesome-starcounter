@@ -44,3 +44,9 @@
 - [WebComponents.org](https://www.webcomponents.org/) - Open directory of custom elements
 
 [Starcounter Official]: https://cdn.rawgit.com/starcounter/awesome-starcounter/master/images/starcounter-official-small.svg
+
+---- 
+
+## License
+
+This awesome list is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
