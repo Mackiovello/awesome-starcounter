@@ -35,6 +35,8 @@
 - [Starcounter DevTools extension for Chrome](https://chrome.google.com/webstore/detail/starcounter-devtools/mpchkilmmalfopikamgellgdgoidhmnh) ![Starcounter Official][Starcounter Official] 
 - [Starcounter DevTools extension for Firefox](https://addons.mozilla.org/en-US/firefox/addon/starcounter-devtools/) ![Starcounter Official][Starcounter Official]
 - [Translate Shadow DOM](https://tomalec.github.io/Translate-ShadowDOM/) - Translates Shadow DOM HTML, CSS and JS from V0 to V1 and vice versa (req. Chrome)
+- [ViewTranslator](https://github.com/Starcounter/ViewTranslator) - Translate Starcounter 2.3.1 to Starcounter 2.4.0 views ![Starcounter Official][Starcounter Official]
+- [ReleaseJournal](https://github.com/Starcounter/ReleaseJournal) - List of all release notes from all Starcounter-related repositories ![Starcounter Official][Starcounter Official]
 
 ## Web Components
 
